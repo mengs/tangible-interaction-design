@@ -1,2 +1,8 @@
 08/28/2013
+
 http://www.chrisharrison.net/HarrisonResearchBrief.pdf
+
+Kanako Aou, Asuka Ishii, Masahiro Furukawa, Shogo Fukushima, and Hiroyuki Kajimoto. 2010. The enhancement of hearing using a combination of sound and skin sensation to the pinna. In Adjunct proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST '10). ACM, New York, NY, USA, 415-416. DOI=10.1145/1866218.1866248 http://doi.acm.org/10.1145/1866218.1866248
+
+
+Jun Rekimoto. 2008. Organic interaction technologies: from stone to skin. Commun. ACM 51, 6 (June 2008), 38-44. DOI=10.1145/1349026.1349035 http://doi.acm.org/10.1145/1349026.1349035
